@@ -1,0 +1,11 @@
+{
+    "name": "New",
+    "version": "1.0.0",
+    "description": "Just trying",
+    "manifest_version": 3,
+    "author": "Shoyab",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Extension"
+    }
+}

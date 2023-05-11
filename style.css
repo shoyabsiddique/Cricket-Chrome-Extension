@@ -1,0 +1,18 @@
+body {
+    min-width: 300px;
+    color: beige;
+}
+.para {
+    color: blue;
+}
+.match {
+    list-style-type: none;
+    color: blue;
+}
+.image {
+    height: 10%;
+    width: 10%;
+}
+.box {
+    display: list-item;
+}
