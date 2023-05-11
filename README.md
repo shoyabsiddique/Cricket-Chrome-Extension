@@ -2,4 +2,4 @@
 
 Cricket Chrome Extension to view current ipl matches stats
 
-!screenshot.png
+![Screenshot](/screenshot.png "Sample page")
